@@ -36,8 +36,24 @@ Pada praktikum ini, aplikasi tidak lagi menggunakan satu file PHP, melainkan dib
 ---
 
 ## 📂 Struktur Folder Project
-<img width="752" height="402" alt="image" src="https://github.com/user-attachments/assets/7af05acd-89b6-4db6-82b2-d880ef5e2de3" />
-
+```
+lab11_php_oop/
+├── .htaccess
+├── config.php
+├── index.php
+├── class/
+│ ├── Database.php
+│ └── Form.php
+├── module/
+│ └── artikel/
+│ ├── index.php
+│ ├── tambah.php
+│ └── ubah.php
+├── template/
+│ ├── header.php
+│ ├── footer.php
+│ └── sidebar.php
+```
 ---
 
 ## 🔁 Routing Aplikasi
