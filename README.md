@@ -26,15 +26,6 @@ Pada praktikum ini, aplikasi tidak lagi menggunakan satu file PHP, melainkan dib
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
-- PHP Native (OOP)
-- MySQL / phpMyAdmin
-- Apache Web Server (XAMPP)
-- HTML & CSS
-- Session PHP
-
----
-
 ## 📂 Struktur Folder Project
 ```
 lab11_php_oop/
