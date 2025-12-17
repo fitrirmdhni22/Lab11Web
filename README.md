@@ -36,32 +36,7 @@ Pada praktikum ini, aplikasi tidak lagi menggunakan satu file PHP, melainkan dib
 ---
 
 ## 📂 Struktur Folder Project
-```
-lab11_php_oop/
-│── .htaccess
-│── index.php
-│── config.php
-│
-├── class/
-│ ├── Database.php
-│ └── Form.php
-│
-├── module/
-│ ├── home/
-│ │ └── index.php
-│ ├── artikel/
-│ │ ├── index.php
-│ │ ├── tambah.php
-│ │ └── ubah.php
-│ └── user/
-│ ├── login.php
-│ ├── logout.php
-│ └── profile.php
-│
-└── template/
-├── header.php
-└── footer.php
-```
+<img width="752" height="402" alt="image" src="https://github.com/user-attachments/assets/7af05acd-89b6-4db6-82b2-d880ef5e2de3" />
 
 ---
 
