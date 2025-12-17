@@ -36,6 +36,7 @@ Pada praktikum ini, aplikasi tidak lagi menggunakan satu file PHP, melainkan dib
 ---
 
 ## 📂 Struktur Folder Project
+```
 lab11_php_oop/
 │── .htaccess
 │── index.php
@@ -60,7 +61,7 @@ lab11_php_oop/
 └── template/
 ├── header.php
 └── footer.php
-
+```
 
 ---
 
