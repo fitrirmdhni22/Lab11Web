@@ -138,7 +138,8 @@ Setiap tahapan praktikum disertai dengan **screenshot hasil implementasi**, meli
 - Halaman profil
 
 ---
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/79ce1218-b2e4-4d08-b178-c89302eb5443" />
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/8168b263-ab08-4bcd-9536-e833a34ae56c" />
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/d7d383d6-76f3-419f-8c4e-a7851ee57191" />
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/93a5d22d-95fa-4842-a9a4-a11fd54a6247" />
+<img width="1366" height="672" alt="image" src="https://github.com/user-attachments/assets/a152eeec-f589-4236-952c-ca960c9b5ef1" />
+<img width="1366" height="686" alt="image" src="https://github.com/user-attachments/assets/2480c830-163c-493d-b1ce-56d90e741175" />
+<img width="1366" height="681" alt="image" src="https://github.com/user-attachments/assets/ae3b63eb-b563-4db5-8b77-74d4d60f30a8" />
+<img width="1365" height="678" alt="image" src="https://github.com/user-attachments/assets/a8fee1f5-3b9b-4783-ae79-0cbfd128c4c3" />
+<img width="1365" height="677" alt="image" src="https://github.com/user-attachments/assets/703b0ffc-413f-4f8e-a71f-1ee3ea871ffc" />
