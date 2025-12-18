@@ -3,13 +3,13 @@
 # Nama : Fitri Ramadhani
 # NIM : 312410085
 # Kelas : TI.24.A.1
-# Mata Kuliah : Pemrograman Web 1 (Tugas Pert-13)
+# Mata Kuliah : Pemrograman Web 1 (Tugas Pert-13 & 14)
 # Dosen Pengampu : Agung Nugroho, S.Kom., M.Kom.
 
 # Lab11Web – PHP OOP, Modular Routing, Authentication & Session
 
 ## 📌 Deskripsi Project
-Project ini merupakan hasil implementasi **Praktikum 11 dan Praktikum 12** pada mata kuliah **Pemrograman Web**.  
+Project ini merupakan hasil implementasi Praktikum 11 dan Praktikum 12 pada mata kuliah Pemrograman Web.  
 Aplikasi dibangun menggunakan **PHP berbasis Object Oriented Programming (OOP)** dengan konsep **modularisasi**, **routing**, serta **autentikasi dan session**.
 
 Pada praktikum ini, aplikasi tidak lagi menggunakan satu file PHP, melainkan dibagi ke dalam beberapa modul agar lebih terstruktur, mudah dikembangkan, dan mudah dipelihara.
